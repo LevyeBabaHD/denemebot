@@ -1,9 +1,5 @@
 {
-  "bot":"deneme bot" {
-    "token": "",
-    "prefix": "!!"
-  },
-  "owner":436862793132802068 {
-    "id": "486956358747553803"
-  }
+  "prefix": "!!",
+  "sahip": "451417443428990977",
+  "token": "T0KENİ AMINA SOK"
 }
