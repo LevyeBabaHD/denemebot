@@ -1,0 +1,19 @@
+{
+  "name": "commando-lite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "commando.js",
+  "scripts": {
+    "test": "node commando.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kubilayuzun08/commando-js.lite.git"
+  },
+  "author": "ByCat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kubilayuzun08/commando-js.lite/issues"
+  },
+  "homepage": "https://github.com/kubilayuzun08/commando-js.lite#readme"
+}
