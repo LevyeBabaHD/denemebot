@@ -5,7 +5,8 @@ const config = require('./config.json')
 const path = require('path');
 const discord = require('discord.js')
 
-var p = config.bot.prefix;
+var prefix = ayarlar.prefix;
+
 
 const client = new CommandoClient({
     commandPrefix: config.bot.prefix,
