@@ -1,5 +1,5 @@
 {
-  "bot":DENEME BOT {
+  "bot":"deneme bot" {
     "token": "",
     "prefix": "!!"
   },
